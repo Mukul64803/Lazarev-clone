@@ -93,9 +93,9 @@ video.addEventListener('click',function(){
 })
 }
 
-// navanimation();
-// page2();
-// page3();
+navanimation();
+page2();
+page3();
 
 var page6vid = document.querySelector("#page6vid");
 var right6 = document.querySelector("#right6")
